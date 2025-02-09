@@ -1,11 +1,11 @@
 # Learning
 
-Open-source learning tracker with curated resources and progress notes.
+List of resources and tracking of my learning.
 
 ## Legend
 
-- 🎯 Want to Learn
-- 📚 Currently Learning
+- 🎯 Want to Learn/Read
+- 📚 Currently Learning/Reading
 - ✅ Completed
 - ⛔ Dropped
 
