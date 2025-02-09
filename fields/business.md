@@ -15,6 +15,8 @@
 
 - ⛔ [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://itrevolution.com/product/the-phoenix-project/)
 - ⛔ [The Unicorn Project by Gene Kim](https://itrevolution.com/product/the-unicorn-project/)
+- ✅ [INSPIRED: How to Create Tech Products Customers Love – 2nd Edition by Marty Cagan](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/)
+- ✅ [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.nirandfar.com/hooked/)
 
 ## Startup
 
